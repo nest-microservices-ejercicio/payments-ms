@@ -1,0 +1,7 @@
+
+pnpm add class-transformer class-validator
+pnpm add zod
+pnpm add dotenv
+
+-- Stripe 
+    pnpm add stripe
